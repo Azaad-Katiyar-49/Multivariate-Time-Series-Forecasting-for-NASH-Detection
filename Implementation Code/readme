@@ -1,0 +1,2 @@
+This folder contains the 4 iterations of stage wise code implementation of the model. 
+The last implementation file is the code of the final model which contains the implementation of the most superior model i.e. Attention LSTM.
